@@ -1,4 +1,4 @@
-# Udliver-Campus-Mob-App
+# Udlivery-Campus-Mob-App
 **About** The application is almost like foodpanda but for university students in US, and is fully deployed on both google play store and apple play store, fully functional integrated with google map and stripe payment method.
 
 **Google Play Store Link** => https://play.google.com/store/apps/details?id=com.defaultcompany.udliverycampus&pcampaignid=web_share
